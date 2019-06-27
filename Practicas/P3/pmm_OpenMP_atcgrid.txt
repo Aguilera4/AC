@@ -1,0 +1,55 @@
+Id. usuario del trabajo: A2estudiante1
+Id. del trabajo: 77333.atcgrid
+Nombre del trabajo especificado por usuario: pmm_OpenMP_atcgrid
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/A2estudiante1
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+atcgrid2
+\nTiempo secuencial con 100
+Tiempo: 0.002081807	 Primera: 400	 Ultima: 400
+Tiempo secuencial con 500
+Tiempo: 0.349973386	 Primera: 2000	 Ultima: 2000
+\nTiempo secuencial con 1000
+Tiempo: 9.722031564	 Primera: 4000	 Ultima: 4000
+Tiempo secuencial con 1500
+Tiempo: 34.885217722	 Primera: 6000	 Ultima: 6000
+\nTiempo con dos threads con 100
+Tiempo: 0.001280194	 Primera: 400	 Ultima: 400
+Tiempo con dos threads con 500
+Tiempo: 0.181897490	 Primera: 2000	 Ultima: 2000
+Tiempo con dos threads con 1000
+Tiempo: 4.925504415	 Primera: 4000	 Ultima: 4000
+Tiempo con dos threads con 1500
+Tiempo: 17.140168763	 Primera: 6000	 Ultima: 6000
+\nTiempo con cuatro threads con 100
+Tiempo: 0.000784686	 Primera: 400	 Ultima: 400
+Tiempo con cuatro threads con 500
+Tiempo: 0.093967012	 Primera: 2000	 Ultima: 2000
+Tiempo con cuatro threads con 1000
+Tiempo: 2.623921874	 Primera: 4000	 Ultima: 4000
+Tiempo con cuatro threads con 1500
+Tiempo: 8.803202207	 Primera: 6000	 Ultima: 6000
